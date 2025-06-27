@@ -1,0 +1,17 @@
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+scikit-learn
+scipy
+tensorflow>=2.11
+keras>=2.11
+torch>=2.0.0
+torchvision
+tqdm
+jupyter
+notebook
+Pillow
+ipykernel
+h5py
